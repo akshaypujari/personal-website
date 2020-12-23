@@ -4,6 +4,10 @@ style: dark
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-gist
   - jemoji
 
 permalink: /:year/:month/:day/:title/
